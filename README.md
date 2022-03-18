@@ -21,7 +21,7 @@ By default, the Home Assistant does not provide any card for controlling air pur
 
 ### Manual
 
-1. Download `purifier-card.js` file from the [latest-release].
+1. Download `purifier-card.js` file from the releases section.
 2. Put `purifier-card.js` file into your `config/www` folder.
 3. Add a reference to `purifier-card.js` in Lovelace. There's two way to do that:
    1. **Using UI:** _Configuration_ → _Lovelace Dashboards_ → _Resources_ → Click Plus button → Set _Url_ as `/local/purifier-card.js` → Set _Resource type_ as `JavaScript Module`.
