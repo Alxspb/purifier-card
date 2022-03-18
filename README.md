@@ -14,23 +14,11 @@ By default, the Home Assistant does not provide any card for controlling air pur
 
 ## Installing
 
-**💡 Tip:** If you like this project ~~and want to get some stickers and postcards~~, consider becoming a patron:
-
-<a href="https://patreon.com/denysdovhan">
-  <img alt="Become a patron" src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="150px">
-</a>
-
-or just buy me a cup of ☕️ or 🥤:
-
-<a href="https://www.buymeacoffee.com/denysdovhan" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/default-black.png" alt="Buy Me A Coffee" width="150px">
-</a>
-
 ### HACS
 
-This card is available in [HACS][hacs] (Home Assistant Community Store).
+~~This card is available in [HACS][hacs] (Home Assistant Community Store).
 
-Just search for `Purifier Card` in the plugins tab.
+~~Just search for `Purifier Card` in the plugins tab.
 
 ### Manual
 
